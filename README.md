@@ -66,7 +66,7 @@ This project features an interactive Power BI dashboard designed to analyze and 
 •	**Customer Retention & Expansion**: Tracking new and top customers by segment and city supports focused retention plans and identifies potential geographic expansion opportunities.<br>
 •	**Data-Driven Decision Making**: The dashboard enables leadership to quickly identify strengths and weaknesses, prioritize actions, and measure progress against strategic goals.<br>
 
-
+### [DEMO VIDEO](https://github.com/praveen4399/SALES-DASHBOARD/blob/main/salesdashboard.gif)
 
 
 
