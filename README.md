@@ -66,7 +66,7 @@ This project features an interactive Power BI dashboard designed to analyze and 
 
 
 ### Screenshots / Demos
-[**DASHBOARD PREVIEW**] :()
+##### [DASHBOARD](https://github.com/praveen4399/SALES-DASHBOARD/blob/main/SALESDASHBOARD.pbix)
 
 
 
