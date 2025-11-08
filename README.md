@@ -7,7 +7,7 @@ This project features an interactive Power BI dashboard designed to analyze and 
 ### Tech Stack
 •	**Power BI Desktop** – Main data visualization platform used for report creation.<br>
 •	**Power Query** – Data transformation and cleaning layer for reshaping and preparing the data.<br>
-•	**DAX (Data Analysis Expressions)** – Used for calculated measures, dynamic visuals, and conditional logic.<br>
+•	**DAX (Data Analysis Expressions)** – Used for calculated measures, dynamic visuals, and conditional logic. [Formula](https://github.com/praveen4399/SALES-DASHBOARD/blob/main/dax.docx)<br>
 •	**Data Modeling** – Relationships established among tables to enable single-filtering and aggregation.<br>
 •	**File Format** – .pbix for development and .png for dashboard previews.<br>
 
