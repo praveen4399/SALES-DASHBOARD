@@ -4,6 +4,8 @@
 This project features an interactive Power BI dashboard designed to analyze and visualize sales data for improved business decision-making. The dashboard provides comprehensive reporting on product, customer, and geographical sales trends, highlighting key performance metrics, growth opportunities, and actionable insights for stakeholders.
 
 
+#### [DASHBOARD LINK](https://github.com/praveen4399/SALES-DASHBOARD/blob/main/SALESDASHBOARD.pbix)
+
 ### Tech Stack
 •	**Power BI Desktop** – Main data visualization platform used for report creation.<br>
 •	**Power Query** – Data transformation and cleaning layer for reshaping and preparing the data.<br>
@@ -65,8 +67,7 @@ This project features an interactive Power BI dashboard designed to analyze and 
 •	**Data-Driven Decision Making**: The dashboard enables leadership to quickly identify strengths and weaknesses, prioritize actions, and measure progress against strategic goals.<br>
 
 
-### Screenshots / Demos
-##### [DASHBOARD](https://github.com/praveen4399/SALES-DASHBOARD/blob/main/SALESDASHBOARD.pbix)
+
 
 
 
